@@ -2,6 +2,7 @@
 name = "serde-deserialize-with-example"
 version = "0.1.0"
 authors = ["Chris Dawes <cmsd2@cantab.net>"]
+license = "MIT + Apache-2.0"
 
 [dependencies]
 serde = "*"

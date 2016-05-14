@@ -1,0 +1,8 @@
+[package]
+name = "serde-deserialize-with-example"
+version = "0.1.0"
+authors = ["Chris Dawes <cmsd2@cantab.net>"]
+
+[dependencies]
+serde = "*"
+serde_json = "*"
